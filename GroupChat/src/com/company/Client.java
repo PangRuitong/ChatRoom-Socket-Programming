@@ -16,6 +16,7 @@ public class Client implements Runnable {
     public Client() {
         online = true;
     }
+    system.out.print("hello ni")
 
     @Override
     public void run() {
